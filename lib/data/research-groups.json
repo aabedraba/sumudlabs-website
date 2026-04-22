@@ -1,0 +1,2571 @@
+[
+  {
+    "id": "estudios-teoricos-y-experimentales-de-nanosistemas-y-sus-aplicaciones-universida",
+    "name": "Estudios teóricos y experimentales de nanosistemas y sus aplicaciones",
+    "website": "https://infiqc.conicet.gov.ar/grupo-1/",
+    "tags": [
+      "Electrochemistry",
+      "Lithium Batteries",
+      "Nanomaterials",
+      "Electrocatalysis",
+      "Computational Materials (DFT)",
+      "Sustainable Energy",
+      "Biomolecular Interactions"
+    ],
+    "description": "Research on electrochemical systems for energy and environmental applications, combining DFT-based modeling with experimental studies of nanostructures, electrocatalysis, and biomolecular interactions.",
+    "headOfLab": "Guillermina Leticia Luque",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "sunalab-laboratorio-de-quimica-supramolecular-y-sistemas-nanoestructurados-unive",
+    "name": "SuNaLab - Laboratorio de química supramolecular y sistemas nanoestructurados",
+    "website": "https://infiqc.conicet.gov.ar/grupo-2/",
+    "tags": [
+      "Supramolecular Chemistry",
+      "Nanomaterials",
+      "Biomembranes",
+      "Catalysis",
+      "Green Chemistry"
+    ],
+    "description": "Research on supramolecular and nanostructured systems, including biomembrane interactions, catalysis, and green chemistry approaches.",
+    "headOfLab": "Laura Isabel Rossi",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "sintesis-organica-y-catalisis-soc-chem-universidad-nacional-de-cordoba-argentina",
+    "name": "Síntesis Orgánica y Catálisis (SOC-Chem)",
+    "website": "https://infiqc.conicet.gov.ar/grupo-3/",
+    "tags": [
+      "Organic Synthesis",
+      "Catalysis",
+      "Biomass Valorization",
+      "Green Chemistry",
+      "Bioactive Heterocycles"
+    ],
+    "description": "Research on catalytic organic synthesis, biomass valorization, and the design of bioactive heterocyclic compounds.",
+    "headOfLab": "Sandra Elizabeth Martin",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "fisico-quimica-de-compuestos-anfifilicos-y-autoensamblados-moleculares-universid",
+    "name": "Físico-química de compuestos anfifílicos y autoensamblados moleculares",
+    "website": "https://infiqc.conicet.gov.ar/grupo-4/",
+    "tags": [
+      "Physical Chemistry",
+      "Amphiphiles",
+      "Molecular Self-Assembly",
+      "Soft Matter"
+    ],
+    "description": "Research on the physical chemistry of amphiphilic compounds and molecular self-assembled systems.",
+    "headOfLab": "María Adela Fernández",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "quimica-teorica-experimental-de-moleculas-de-interes-ambiental-universidad-nacio",
+    "name": "Química teórica-experimental de moléculas de interés ambiental",
+    "website": "https://infiqc.conicet.gov.ar/grupo-5/",
+    "tags": [
+      "Environmental Chemistry",
+      "Theoretical Chemistry",
+      "Molecular Modeling"
+    ],
+    "description": "Theoretical and experimental research on molecules of environmental interest and their chemical behavior.",
+    "headOfLab": "Fabio Ernesto Malanca",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "quimica-laser-e-interacciones-no-covalentes-universidad-nacional-de-cordoba-arge",
+    "name": "Química láser e interacciones no-covalentes",
+    "website": "https://infiqc.conicet.gov.ar/grupo-6/",
+    "tags": [
+      "Laser Chemistry",
+      "Non-Covalent Interactions",
+      "Physical Chemistry"
+    ],
+    "description": "Research on laser-driven chemistry and non-covalent interactions in molecular systems.",
+    "headOfLab": "Gustavo Ariel Pino",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "nano-bio-sensores-electroquimicos-y-plasmonicos-universidad-nacional-de-cordoba-",
+    "name": "Nano(BIO)Sensores electroquímicos y plasmónicos",
+    "website": "https://infiqc.conicet.gov.ar/grupo-7/",
+    "tags": [
+      "Biosensors",
+      "Electrochemical Sensors",
+      "Plasmonics",
+      "Nanotechnology"
+    ],
+    "description": "Development of nano-enabled electrochemical and plasmonic biosensors for analytical and biointerface applications.",
+    "headOfLab": "Gustavo Adolfo Rivas",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "sintesis-funcionalizacion-y-reactividad-de-materiales-bidimensionales-universida",
+    "name": "Síntesis, funcionalización y reactividad de materiales bidimensionales",
+    "website": "https://infiqc.conicet.gov.ar/grupo-8/",
+    "tags": [
+      "2D Materials",
+      "Materials Chemistry",
+      "Surface Functionalization"
+    ],
+    "description": "Research on the synthesis, functionalization, and reactivity of two-dimensional materials.",
+    "headOfLab": "Eduardo Martin Patrito",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "nanomateriales-para-dispositivos-fotovoltaicos-y-fotoelectroquimicos-universidad",
+    "name": "Nanomateriales para dispositivos fotovoltaicos y fotoelectroquímicos",
+    "website": "https://infiqc.conicet.gov.ar/grupo-9/",
+    "tags": [
+      "Photovoltaics",
+      "Photoelectrochemistry",
+      "Nanomaterials",
+      "Energy Conversion"
+    ],
+    "description": "Research on nanomaterials for photovoltaic and photoelectrochemical devices for energy conversion.",
+    "headOfLab": "Rodrigo Ezequiel Iglesias",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "fotoquimica-organica-catalisis-metalica-y-biocatalisis-universidad-nacional-de-c",
+    "name": "Fotoquímica Orgánica, Catálisis Metálica y Biocatálisis",
+    "website": "https://infiqc.conicet.gov.ar/grupo-10/",
+    "tags": [
+      "Organic Chemistry",
+      "Catalysis",
+      "Photochemistry",
+      "Biocatalysis"
+    ],
+    "description": "Research on organic photochemistry and catalytic processes, including metal catalysis and biocatalysis.",
+    "headOfLab": "Juan Elías Argüello",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "nanobiointerfaces-universidad-nacional-de-cordoba-argentina",
+    "name": "Nanobiointerfaces",
+    "website": "https://infiqc.conicet.gov.ar/grupo-11/",
+    "tags": [
+      "Nanomaterials",
+      "Biointerfaces",
+      "Biomaterials",
+      "Surface Science"
+    ],
+    "description": "Study of nanostructured materials and their interactions with biological systems at interfaces.",
+    "headOfLab": "Carla Eugenia Giacomelli",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "laboratorio-universitario-de-quimica-y-contaminacion-del-aire-luqca-universidad-",
+    "name": "Laboratorio Universitario de Química y Contaminación del Aire (LUQCA)",
+    "website": "https://infiqc.conicet.gov.ar/grupo-12/",
+    "tags": [
+      "Environmental Chemistry",
+      "Air Pollution",
+      "Atmospheric Science"
+    ],
+    "description": "Research on air quality, atmospheric pollutants, and environmental chemical processes.",
+    "headOfLab": "Mariano Andrés Teruel",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "diseno-sintesis-y-caracterizacion-de-nuevos-materiales-inorganicos-de-interes-te",
+    "name": "Diseño, síntesis y caracterización de nuevos materiales inorgánicos de interés tecnológico",
+    "website": "https://infiqc.conicet.gov.ar/grupo-13/",
+    "tags": [
+      "Inorganic Materials",
+      "Materials Science",
+      "Functional Materials"
+    ],
+    "description": "Design and characterization of inorganic materials with technological applications.",
+    "headOfLab": "Raúl Ernesto Carbonio",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "quimica-organica-analitica-universidad-nacional-de-cordoba-argentina",
+    "name": "Química orgánica analítica",
+    "website": "https://infiqc.conicet.gov.ar/grupo-14/",
+    "tags": [
+      "Analytical Chemistry",
+      "Organic Chemistry"
+    ],
+    "description": "Analytical methods applied to organic compounds and complex chemical systems.",
+    "headOfLab": "Alicia Viviana Veglia",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "espectroscopia-y-fotoquimica-ambiental-universidad-nacional-de-cordoba-argentina",
+    "name": "Espectroscopía y fotoquímica ambiental",
+    "website": "https://infiqc.conicet.gov.ar/grupo-15/",
+    "tags": [
+      "Spectroscopy",
+      "Photochemistry",
+      "Environmental Chemistry"
+    ],
+    "description": "Study of environmental processes using spectroscopy and photochemical methods.",
+    "headOfLab": "Maximiliano Alberto Burgos Paci",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "nanoplasmonica-teorica-y-experimental-universidad-nacional-de-cordoba-argentina",
+    "name": "Nanoplasmónica teórica y experimental",
+    "website": "https://infiqc.conicet.gov.ar/grupo-16/",
+    "tags": [
+      "Nanoplasmonics",
+      "Nanophotonics",
+      "Optical Materials"
+    ],
+    "description": "Experimental and theoretical research on plasmonic nanostructures and optical properties.",
+    "headOfLab": "Eduardo A. Coronado",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "medicion-y-modelado-de-radiacion-aerosoles-troposfericos-y-nubes-caracterizacion",
+    "name": "Medición y modelado de radiación, aerosoles troposféricos y nubes: Caracterización, implicancias y desafíos",
+    "website": "https://infiqc.conicet.gov.ar/grupo-17/",
+    "tags": [
+      "Atmospheric Science",
+      "Climate Science",
+      "Aerosols",
+      "Radiation"
+    ],
+    "description": "Measurement and modeling of radiation, tropospheric aerosols, and cloud systems in the atmosphere.",
+    "headOfLab": "Luis Eduardo Olcese",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "electroquimica-computacional-y-experimental-universidad-nacional-de-cordoba-arge",
+    "name": "Electroquímica computacional y experimental",
+    "website": "https://infiqc.conicet.gov.ar/grupo-18/",
+    "tags": [
+      "Electrochemistry",
+      "Computational Chemistry",
+      "Energy Systems"
+    ],
+    "description": "Combined computational and experimental studies of electrochemical systems.",
+    "headOfLab": "Sergio Alberto Dassie",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "productos-a-partir-de-pirolisis-de-biomasa-y-sintesis-de-heterociclos-universida",
+    "name": "Productos a partir de pirólisis de biomasa y síntesis de heterociclos",
+    "website": "https://infiqc.conicet.gov.ar/grupo-19/",
+    "tags": [
+      "Biomass",
+      "Organic Synthesis",
+      "Green Chemistry"
+    ],
+    "description": "Research on biomass conversion and the synthesis of heterocyclic compounds for chemical applications.",
+    "headOfLab": "Elizabeth Laura Moyano",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "sintesis-de-nuevos-compuestos-organicos-asistida-por-modelado-molecular-universi",
+    "name": "Síntesis de nuevos compuestos orgánicos asistida por Modelado Molecular",
+    "website": "https://infiqc.conicet.gov.ar/grupo-20/",
+    "tags": [
+      "Organic Synthesis",
+      "Molecular Modeling",
+      "Computational Chemistry"
+    ],
+    "description": "Design and synthesis of organic compounds supported by molecular modeling techniques.",
+    "headOfLab": "María Teresa Baumgartner",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "simulaciones-computacionales-de-nanomateriales-universidad-nacional-de-cordoba-a",
+    "name": "Simulaciones computacionales de nanomateriales",
+    "website": "https://infiqc.conicet.gov.ar/grupo-21/",
+    "tags": [
+      "Computational Materials",
+      "Nanomaterials",
+      "Simulation"
+    ],
+    "description": "Modeling and simulation of nanostructured materials and their properties.",
+    "headOfLab": "Marcelo Mariscal",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "laboratorio-de-materiales-hibridos-nanoestructurados-y-sustentables-lamhinas-uni",
+    "name": "Laboratorio de materiales híbridos nanoestructurados y sustentables (LAMHINAS)",
+    "website": "https://infiqc.conicet.gov.ar/grupo-22/",
+    "tags": [
+      "Hybrid Materials",
+      "Nanomaterials",
+      "Sustainability"
+    ],
+    "description": "Development of sustainable hybrid nanomaterials for advanced applications.",
+    "headOfLab": "Verónica Brunetti",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "laboratorio-de-electroquimica-estudios-mecanisticos-con-aplicaciones-en-electroa",
+    "name": "Laboratorio de electroquímica. Estudios mecanísticos con aplicaciones en electroanalítica e inserción electroquímica",
+    "website": "https://infiqc.conicet.gov.ar/grupo-23/",
+    "tags": [
+      "Electrochemistry",
+      "Electroanalysis",
+      "Mechanistic Studies"
+    ],
+    "description": "Mechanistic studies of electrochemical processes with applications in electroanalysis and electrochemical insertion.",
+    "headOfLab": "Fernando Sebastián Garay",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "electroquimica-de-interfaces-ities-sensores-y-bicapas-planas-universidad-naciona",
+    "name": "Electroquímica de interfaces. ITIES, sensores y bicapas planas.",
+    "website": "https://infiqc.conicet.gov.ar/grupo-24/",
+    "tags": [
+      "Electrochemistry",
+      "Interfaces",
+      "Sensors",
+      "Membranes"
+    ],
+    "description": "Research on electrochemical interfaces, sensors, and planar bilayer systems.",
+    "headOfLab": "María Valeria Pfaffen",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "diseno-sintesis-y-caracterizacion-de-materiales-nanoestructurados-para-aplicacio",
+    "name": "Diseño, síntesis y caracterización de materiales nanoestructurados para aplicaciones nano(bio)tecnológicas",
+    "website": "https://infiqc.conicet.gov.ar/grupo-25/",
+    "tags": [
+      "Nanomaterials",
+      "Nanobiotechnology",
+      "Materials Characterization"
+    ],
+    "description": "Design, synthesis, and characterization of nanostructured materials for nano(bio)technological applications.",
+    "headOfLab": "Nancy Fabiana Ferreyra",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "nanomateriales-hibridos-multifuncionales-diseno-y-caracterizacion-electroquimica",
+    "name": "Nanomateriales híbridos multifuncionales. Diseño y caracterización electroquímica, espectroscópica y mediante microscopías avanzadas",
+    "website": "https://infiqc.conicet.gov.ar/grupo-26/",
+    "tags": [
+      "Hybrid Nanomaterials",
+      "Electrochemistry",
+      "Spectroscopy",
+      "Microscopy"
+    ],
+    "description": "Development and characterization of multifunctional hybrid nanomaterials using electrochemical, spectroscopic, and advanced microscopy methods.",
+    "headOfLab": "Gabriela Inés Lacconi",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "productos-naturales-organicos-bioactivos-pnob-universidad-nacional-de-cordoba-ar",
+    "name": "Productos Naturales Orgánicos Bioactivos (PNOB)",
+    "website": "https://infiqc.conicet.gov.ar/grupo-27/",
+    "tags": [
+      "Natural Products",
+      "Organic Chemistry",
+      "Bioactive Compounds"
+    ],
+    "description": "Study and synthesis of bioactive natural organic compounds.",
+    "headOfLab": "Viviana Estela Nicotra",
+    "university": "Universidad Nacional de Córdoba",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "source": "https://infiqc.conicet.gov.ar/grupos/"
+  },
+  {
+    "id": "group-of-trace-elements-and-sample-preparation-gatprem-universidad-de-la-republi",
+    "name": "Group of Trace Elements and Sample Preparation (GATPREM)",
+    "website": "https://sites.google.com/site/elemtrazayprepmuestras/",
+    "tags": [
+      "Analytical Chemistry",
+      "Sample Preparation",
+      "Trace Elements",
+      "Atomic Spectroscopy",
+      "Environmental Analysis"
+    ],
+    "description": "Development of analytical methods focused on trace elements, sample preparation, and atomic-spectrometric applications in environmental and food matrices.",
+    "headOfLab": "Mariela Pistón",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-analitica/"
+  },
+  {
+    "id": "toxicological-analytical-chemistry-universidad-de-la-republica-uruguay",
+    "name": "Toxicological Analytical Chemistry",
+    "website": "https://formularios.csic.edu.uy/grupos/formulario/PrincipalAction.action?comando=ficha_completa&id=825725",
+    "tags": [
+      "Analytical Chemistry",
+      "Toxicology",
+      "Biomonitoring",
+      "Human Exposure",
+      "Public Health"
+    ],
+    "description": "Analytical chemistry research for toxicological assessment, including biomonitoring and the measurement of chemical exposure in human populations.",
+    "headOfLab": "Nelly Mañay",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-analitica/"
+  },
+  {
+    "id": "bioesp-universidad-de-la-republica-uruguay",
+    "name": "BIOESP",
+    "website": "https://formularios.csic.edu.uy/grupos/formulario/PrincipalAction.action?comando=ficha_completa&id=883234",
+    "tags": [
+      "Analytical Chemistry",
+      "Biosensors",
+      "Spectroscopy",
+      "Electrochemistry",
+      "Bioanalysis"
+    ],
+    "description": "Research on biosensors and spectroscopic or electrochemical analytical strategies for biologically relevant systems.",
+    "headOfLab": "Valery Bühl",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-analitica/"
+  },
+  {
+    "id": "bioesp-universidad-de-la-republica-uruguay-2",
+    "name": "BIOESP",
+    "website": "https://formularios.csic.edu.uy/grupos/formulario/PrincipalAction.action?comando=ficha_completa&id=883234",
+    "tags": [
+      "Analytical Chemistry",
+      "Biosensors",
+      "Spectroscopy",
+      "Electrochemistry",
+      "Bioanalysis"
+    ],
+    "description": "Research on biosensors and spectroscopic or electrochemical analytical strategies for biologically relevant systems.",
+    "headOfLab": "Ignacio Machado",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-analitica/"
+  },
+  {
+    "id": "environmental-analytical-chemistry-universidad-de-la-republica-uruguay",
+    "name": "Environmental Analytical Chemistry",
+    "website": "https://dec.fq.edu.uy/quimica-analitica/",
+    "tags": [
+      "Analytical Chemistry",
+      "Environmental Chemistry",
+      "Water Quality",
+      "Environmental Monitoring"
+    ],
+    "description": "Analytical chemistry applied to environmental samples, with emphasis on monitoring and assessing pollutants in natural systems.",
+    "headOfLab": "Florencia Tissot",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-analitica/"
+  },
+  {
+    "id": "crystal-structure-determination-and-structural-parameter-analysis-universidad-de",
+    "name": "Crystal Structure Determination and Structural-Parameter Analysis",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Crystallography",
+      "Structural Chemistry",
+      "Inorganic Chemistry"
+    ],
+    "description": "Determination of crystal structures and analysis of structural parameters in inorganic and coordination compounds.",
+    "headOfLab": "Natalia Alvarez",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "new-coordination-compounds-with-antitumor-activity-universidad-de-la-republica-u",
+    "name": "New Coordination Compounds with Antitumor Activity",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Coordination Chemistry",
+      "Medicinal Inorganic Chemistry",
+      "Anticancer Compounds"
+    ],
+    "description": "Synthesis and study of coordination compounds with potential antitumor activity and biomedical relevance.",
+    "headOfLab": "Gianella Facchin",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "polynuclear-assemblies-containing-lanthanide-ions-universidad-de-la-republica-ur",
+    "name": "Polynuclear Assemblies Containing Lanthanide Ions",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Inorganic Chemistry",
+      "Lanthanides",
+      "Coordination Chemistry",
+      "Functional Materials"
+    ],
+    "description": "Preparation and study of polynuclear assemblies containing lanthanide ions with structural and functional interest.",
+    "headOfLab": "Julia Torres",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "molecular-containers-universidad-de-la-republica-uruguay",
+    "name": "Molecular Containers",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Supramolecular Chemistry",
+      "Host-Guest Chemistry",
+      "Inorganic Chemistry"
+    ],
+    "description": "Design and characterization of molecular containers and related supramolecular systems.",
+    "headOfLab": "Carolina Mendoza",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "molecular-magnetism-universidad-de-la-republica-uruguay",
+    "name": "Molecular Magnetism",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Inorganic Chemistry",
+      "Molecular Magnetism",
+      "Coordination Chemistry"
+    ],
+    "description": "Research on coordination compounds and molecular systems with magnetic properties.",
+    "headOfLab": "Raúl Chiozzone",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "molecular-magnetism-universidad-de-la-republica-uruguay-2",
+    "name": "Molecular Magnetism",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Inorganic Chemistry",
+      "Molecular Magnetism",
+      "Coordination Chemistry"
+    ],
+    "description": "Research on coordination compounds and molecular systems with magnetic properties.",
+    "headOfLab": "Alicia Cuevas",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "computational-inorganic-chemistry-universidad-de-la-republica-uruguay",
+    "name": "Computational Inorganic Chemistry",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Computational Chemistry",
+      "Inorganic Chemistry",
+      "Molecular Modeling"
+    ],
+    "description": "Computational studies of inorganic systems using molecular modeling and theoretical chemistry tools.",
+    "headOfLab": "Nicolás Veiga",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "medicinal-inorganic-chemistry-universidad-de-la-republica-uruguay",
+    "name": "Medicinal Inorganic Chemistry",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Medicinal Inorganic Chemistry",
+      "Metal-Based Drugs",
+      "Bioinorganic Chemistry"
+    ],
+    "description": "Development of inorganic compounds with potential pharmacological activity and biomedical applications.",
+    "headOfLab": "Dinorah Gambino",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "medicinal-inorganic-chemistry-universidad-de-la-republica-uruguay-2",
+    "name": "Medicinal Inorganic Chemistry",
+    "website": "https://dec.fq.edu.uy/quimica-inorganica/",
+    "tags": [
+      "Medicinal Inorganic Chemistry",
+      "Metal-Based Drugs",
+      "Bioinorganic Chemistry"
+    ],
+    "description": "Development of inorganic compounds with potential pharmacological activity and biomedical applications.",
+    "headOfLab": "Lucía Otero",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/quimica-inorganica/"
+  },
+  {
+    "id": "toxicological-biomarkers-and-exposure-risk-assessment-universidad-de-la-republic",
+    "name": "Toxicological Biomarkers and Exposure-Risk Assessment",
+    "website": "https://dec.fq.edu.uy/toxicologia/",
+    "tags": [
+      "Toxicology",
+      "Biomarkers",
+      "Human Exposure",
+      "Public Health"
+    ],
+    "description": "Use of toxicological biomarkers to characterize exposure and assess health risks in exposed populations.",
+    "headOfLab": "Cristina Álvarez",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/toxicologia/"
+  },
+  {
+    "id": "human-exposure-risk-to-naturally-contaminated-groundwater-arsenic-universidad-de",
+    "name": "Human Exposure Risk to Naturally Contaminated Groundwater Arsenic",
+    "website": "https://dec.fq.edu.uy/toxicologia/",
+    "tags": [
+      "Arsenic",
+      "Groundwater",
+      "Toxicology",
+      "Public Health"
+    ],
+    "description": "Assessment of human exposure and health risk associated with arsenic in naturally contaminated groundwater.",
+    "headOfLab": "Paulina Pizzorno",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/toxicologia/"
+  },
+  {
+    "id": "ecosalud-universidad-de-la-republica-uruguay",
+    "name": "ECOSALUD",
+    "website": "https://dec.fq.edu.uy/toxicologia/",
+    "tags": [
+      "Public Health",
+      "Environmental Health",
+      "Community Health",
+      "Toxicology"
+    ],
+    "description": "Community-oriented environmental health research linking chemical exposure, territory, and public-health outcomes.",
+    "headOfLab": "Fiorella Iaquinta",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://dec.fq.edu.uy/toxicologia/"
+  },
+  {
+    "id": "nanoparticles-and-films-for-radiation-detectors-universidad-de-la-republica-urug",
+    "name": "Nanoparticles and Films for Radiation Detectors",
+    "website": "https://radioquimica.fq.edu.uy/portfolio-item/nanoparticulas-y-films-para-detectores-de-radiacion/",
+    "tags": [
+      "Radiation Detection",
+      "Nanomaterials",
+      "Thin Films",
+      "Materials Chemistry"
+    ],
+    "description": "Development of nanoparticles and thin films for radiation-detection devices and related materials applications.",
+    "headOfLab": "Ivana Aguiar",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://radioquimica.fq.edu.uy/portfolio-item/area-radioquimica/"
+  },
+  {
+    "id": "detection-agents-for-infectious-processes-by-gamma-scintigraphy-universidad-de-l",
+    "name": "Detection Agents for Infectious Processes by Gamma Scintigraphy",
+    "website": "https://radioquimica.fq.edu.uy/portfolio-item/desarrollo-de-agentes-de-deteccion-de-procesos-infecciosos-mediante-centellografia-gamma%E2%80%8B/",
+    "tags": [
+      "Radiopharmacy",
+      "Gamma Scintigraphy",
+      "Infection Imaging",
+      "Nuclear Medicine"
+    ],
+    "description": "Design and evaluation of radiolabeled agents for detecting infectious processes by gamma scintigraphy.",
+    "headOfLab": "Mariela Terán",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://radioquimica.fq.edu.uy/portfolio-item/area-radioquimica/"
+  },
+  {
+    "id": "molecular-imaging-radiopharmaceuticals-for-alzheimer-s-disease-universidad-de-la",
+    "name": "Molecular Imaging Radiopharmaceuticals for Alzheimer's Disease",
+    "website": "https://radioquimica.fq.edu.uy/portfolio-item/desarrollo-y-evaluacion-de-potenciales-radiofarmacos-para-imagenologia-molecular-en-enfermedad-de-alzehimer/",
+    "tags": [
+      "Radiopharmacy",
+      "Molecular Imaging",
+      "Alzheimer's Disease",
+      "Nuclear Medicine"
+    ],
+    "description": "Development and evaluation of candidate radiopharmaceuticals for molecular imaging in Alzheimer's disease.",
+    "headOfLab": "Ana Rey",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://radioquimica.fq.edu.uy/portfolio-item/area-radioquimica/"
+  },
+  {
+    "id": "molecular-imaging-radiopharmaceuticals-for-alzheimer-s-disease-universidad-de-la-2",
+    "name": "Molecular Imaging Radiopharmaceuticals for Alzheimer's Disease",
+    "website": "https://radioquimica.fq.edu.uy/portfolio-item/desarrollo-y-evaluacion-de-potenciales-radiofarmacos-para-imagenologia-molecular-en-enfermedad-de-alzehimer/",
+    "tags": [
+      "Radiopharmacy",
+      "Molecular Imaging",
+      "Alzheimer's Disease",
+      "Nuclear Medicine"
+    ],
+    "description": "Development and evaluation of candidate radiopharmaceuticals for molecular imaging in Alzheimer's disease.",
+    "headOfLab": "Javier Giglio",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://radioquimica.fq.edu.uy/portfolio-item/area-radioquimica/"
+  },
+  {
+    "id": "chemical-ecology-laboratory-leq-universidad-de-la-republica-uruguay",
+    "name": "Chemical Ecology Laboratory (LEQ)",
+    "website": "https://leq.fq.edu.uy/",
+    "tags": [
+      "Chemical Ecology",
+      "Natural Products",
+      "Insect Chemistry",
+      "Chemical Communication"
+    ],
+    "description": "Research on chemical communication and natural products in ecological interactions involving insects and plants.",
+    "headOfLab": "Carmen Rossini",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://leq.fq.edu.uy/"
+  },
+  {
+    "id": "cytotoxic-polyoxygenated-metabolites-universidad-de-la-republica-uruguay",
+    "name": "Cytotoxic Polyoxygenated Metabolites",
+    "website": "https://www.secobi.fq.edu.uy/?page_id=3077",
+    "tags": [
+      "Natural Products",
+      "Organic Synthesis",
+      "Bioactive Compounds",
+      "Medicinal Chemistry"
+    ],
+    "description": "Isolation, synthesis, and study of polyoxygenated metabolites with cytotoxic and bioactive properties.",
+    "headOfLab": "Gustavo Seoane",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.secobi.fq.edu.uy/"
+  },
+  {
+    "id": "cytotoxic-polyoxygenated-metabolites-universidad-de-la-republica-uruguay-2",
+    "name": "Cytotoxic Polyoxygenated Metabolites",
+    "website": "https://www.secobi.fq.edu.uy/?page_id=3077",
+    "tags": [
+      "Natural Products",
+      "Organic Synthesis",
+      "Bioactive Compounds",
+      "Medicinal Chemistry"
+    ],
+    "description": "Isolation, synthesis, and study of polyoxygenated metabolites with cytotoxic and bioactive properties.",
+    "headOfLab": "Margarita Brovetto",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.secobi.fq.edu.uy/"
+  },
+  {
+    "id": "bioactive-compounds-in-the-central-nervous-system-universidad-de-la-republica-ur",
+    "name": "Bioactive Compounds in the Central Nervous System",
+    "website": "https://www.secobi.fq.edu.uy/?page_id=3059",
+    "tags": [
+      "Medicinal Chemistry",
+      "CNS",
+      "Bioactive Compounds",
+      "Organic Chemistry"
+    ],
+    "description": "Research on the design and study of bioactive compounds relevant to central-nervous-system targets.",
+    "headOfLab": "Ignacio Carrera",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.secobi.fq.edu.uy/"
+  },
+  {
+    "id": "pheromone-chemistry-universidad-de-la-republica-uruguay",
+    "name": "Pheromone Chemistry",
+    "website": "https://www.secobi.fq.edu.uy/?page_id=3099",
+    "tags": [
+      "Chemical Ecology",
+      "Pheromones",
+      "Organic Chemistry",
+      "Natural Products"
+    ],
+    "description": "Organic-chemistry and natural-products work focused on pheromones and semiochemicals.",
+    "headOfLab": "Daniela Gamenara",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.secobi.fq.edu.uy/"
+  },
+  {
+    "id": "oligoamides-as-antitrypanosomatid-agents-universidad-de-la-republica-uruguay",
+    "name": "Oligoamides as Antitrypanosomatid Agents",
+    "website": "https://qfarm.fq.edu.uy/portfolio-item/oligoamidas-como-antitripanosomatidos/",
+    "tags": [
+      "Medicinal Chemistry",
+      "Neglected Diseases",
+      "Organic Synthesis"
+    ],
+    "description": "Design and synthesis of oligoamides as candidate agents against trypanosomatid parasites.",
+    "headOfLab": "Gloria Serra",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://qfarm.fq.edu.uy/"
+  },
+  {
+    "id": "oligoamides-as-antitrypanosomatid-agents-universidad-de-la-republica-uruguay-2",
+    "name": "Oligoamides as Antitrypanosomatid Agents",
+    "website": "https://qfarm.fq.edu.uy/portfolio-item/oligoamidas-como-antitripanosomatidos/",
+    "tags": [
+      "Medicinal Chemistry",
+      "Neglected Diseases",
+      "Organic Synthesis"
+    ],
+    "description": "Design and synthesis of oligoamides as candidate agents against trypanosomatid parasites.",
+    "headOfLab": "Eduardo Manta",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://qfarm.fq.edu.uy/"
+  },
+  {
+    "id": "structural-diversity-discovery-universidad-de-la-republica-uruguay",
+    "name": "Structural Diversity Discovery",
+    "website": "https://qfarm.fq.edu.uy/portfolio-item/busqueda-de-diversidad-estructural/",
+    "tags": [
+      "Medicinal Chemistry",
+      "Chemical Diversity",
+      "Organic Synthesis"
+    ],
+    "description": "Synthetic chemistry strategies aimed at expanding structural diversity for bioactive-compound discovery.",
+    "headOfLab": "Cecilia Saiz",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://qfarm.fq.edu.uy/"
+  },
+  {
+    "id": "structural-diversity-discovery-universidad-de-la-republica-uruguay-2",
+    "name": "Structural Diversity Discovery",
+    "website": "https://qfarm.fq.edu.uy/portfolio-item/busqueda-de-diversidad-estructural/",
+    "tags": [
+      "Medicinal Chemistry",
+      "Chemical Diversity",
+      "Organic Synthesis"
+    ],
+    "description": "Synthetic chemistry strategies aimed at expanding structural diversity for bioactive-compound discovery.",
+    "headOfLab": "Graciela Mahler",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://qfarm.fq.edu.uy/"
+  },
+  {
+    "id": "concentration-effect-relationships-and-therapeutic-drug-monitoring-universidad-d",
+    "name": "Concentration-Effect Relationships and Therapeutic Drug Monitoring",
+    "website": "https://www.fq.edu.uy/?q=es%2Fnode%2F1415",
+    "tags": [
+      "Pharmacokinetics",
+      "Therapeutic Drug Monitoring",
+      "Clinical Pharmacology"
+    ],
+    "description": "Clinical-pharmacology research centered on concentration-effect relationships and therapeutic drug monitoring.",
+    "headOfLab": "Pietro Fagiolino",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Fnode%2F1415"
+  },
+  {
+    "id": "pbbm-for-bioequivalent-medicines-universidad-de-la-republica-uruguay",
+    "name": "PBBM for Bioequivalent Medicines",
+    "website": "https://www.fq.edu.uy/?q=es%2Fnode%2F1370",
+    "tags": [
+      "Pharmacokinetics",
+      "PBPK Modeling",
+      "Bioequivalence",
+      "Pharmaceutical Sciences"
+    ],
+    "description": "Modeling and simulation work for the development and evaluation of bioequivalent medicines using physiologically based biopharmaceutics modeling.",
+    "headOfLab": "Manuel Ibarra",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Fnode%2F1370"
+  },
+  {
+    "id": "clinical-pharmacy-active-pharmacovigilance-and-medication-monitoring-universidad",
+    "name": "Clinical Pharmacy, Active Pharmacovigilance and Medication Monitoring",
+    "website": "https://www.fq.edu.uy/?q=es%2Fnode%2F1369",
+    "tags": [
+      "Clinical Pharmacy",
+      "Pharmacovigilance",
+      "Medication Safety",
+      "Public Health"
+    ],
+    "description": "Clinical-pharmacy research on active pharmacovigilance, pharmacotherapeutic follow-up, and medication monitoring.",
+    "headOfLab": "Cecilia Maldonado",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Fnode%2F1369"
+  },
+  {
+    "id": "pharmaceutical-technology-and-quality-control-of-medicines-universidad-de-la-rep",
+    "name": "Pharmaceutical Technology and Quality Control of Medicines",
+    "website": "https://www.fq.edu.uy/?q=es%2Fnode%2F468",
+    "tags": [
+      "Pharmaceutical Technology",
+      "Drug Quality",
+      "Quality Control",
+      "Formulation"
+    ],
+    "description": "Research in pharmaceutical technology and quality control aimed at formulation development and medicine quality assurance.",
+    "headOfLab": "Ana Ochoa",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Fnode%2F468"
+  },
+  {
+    "id": "carbonization-and-hydrothermal-liquefaction-of-biomass-universidad-de-la-republi",
+    "name": "Carbonization and Hydrothermal Liquefaction of Biomass",
+    "website": "https://fisicoquimica.fq.edu.uy/doku.php?id=creyes",
+    "tags": [
+      "Biomass Valorization",
+      "Hydrothermal Liquefaction",
+      "Sustainable Energy"
+    ],
+    "description": "Thermochemical conversion of biomass through carbonization and hydrothermal liquefaction for energy-related applications.",
+    "headOfLab": "Néstor Tancredi",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Ftaxonomy%2Fterm%2F55"
+  },
+  {
+    "id": "adsorbents-and-catalysts-based-on-modified-minerals-and-clays-universidad-de-la-",
+    "name": "Adsorbents and Catalysts Based on Modified Minerals and Clays",
+    "website": "https://fisicoquimica.fq.edu.uy/doku.php?id=mtorres",
+    "tags": [
+      "Catalysis",
+      "Adsorbents",
+      "Clays",
+      "Materials Chemistry"
+    ],
+    "description": "Preparation and study of adsorbents and catalysts based on modified minerals and clays.",
+    "headOfLab": "Jorge Castiglioni",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Ftaxonomy%2Fterm%2F55"
+  },
+  {
+    "id": "materials-for-energy-conversion-and-storage-universidad-de-la-republica-uruguay",
+    "name": "Materials for Energy Conversion and Storage",
+    "website": "https://www.fq.edu.uy/?q=es%2Fnode%2F1507",
+    "tags": [
+      "Energy Storage",
+      "Functional Materials",
+      "Physical Chemistry"
+    ],
+    "description": "Preparation and characterization of materials for energy conversion and storage, especially hydrogen-related systems.",
+    "headOfLab": "Andrés Cuña",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Fnode%2F1507"
+  },
+  {
+    "id": "hydrogen-production-from-renewable-resources-universidad-de-la-republica-uruguay",
+    "name": "Hydrogen Production from Renewable Resources",
+    "website": "https://fisicoquimica.fq.edu.uy/doku.php?id=mmusso",
+    "tags": [
+      "Hydrogen",
+      "Renewable Energy",
+      "Catalysis",
+      "Physical Chemistry"
+    ],
+    "description": "Research on hydrogen production from renewable resources and related energy-conversion strategies.",
+    "headOfLab": "Juan Bussi",
+    "university": "Universidad de la República",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "source": "https://www.fq.edu.uy/?q=es%2Ftaxonomy%2Fterm%2F55"
+  },
+  {
+    "id": "food-science-and-analytical-chemistry-group-universidad-catolica-nuestra-senora-",
+    "name": "Food Science and Analytical Chemistry Group",
+    "website": "https://www.ucap.edu.py/index.php/plantel-docente",
+    "tags": [
+      "Analytical Chemistry",
+      "Food Science",
+      "Quality Control"
+    ],
+    "description": "Hilda Inés Ucedo Samudio is publicly listed across Bioquímica, Química y Farmacia and Química Industrial with teaching in qualitative analytical chemistry and food analysis.",
+    "headOfLab": "Hilda Inés Ucedo Samudio",
+    "university": "Universidad Católica \"Nuestra Señora de la Asunción\"",
+    "country": "Paraguay",
+    "city": "Asunción",
+    "source": "https://www.ucap.edu.py/index.php/plantel-docente"
+  },
+  {
+    "id": "instrumentation-and-automation-group-universidad-catolica-nuestra-senora-de-la-a",
+    "name": "Instrumentation and Automation Group",
+    "website": "https://cyt.uc.edu.py/perfiles/test-2/",
+    "tags": [
+      "Instrumentation",
+      "Automation",
+      "Sensors",
+      "Environmental Monitoring"
+    ],
+    "description": "Instrumentation and automation projects on fluid-particle transport and environmental/traffic monitoring.",
+    "headOfLab": "Enrique Vargas",
+    "university": "Universidad Católica \"Nuestra Señora de la Asunción\"",
+    "country": "Paraguay",
+    "city": "Asunción",
+    "source": "https://universidadcatolica.edu.py/investigacion/"
+  },
+  {
+    "id": "lanthanide-coordination-compounds-group-university-of-sao-paulo-brazil",
+    "name": "Lanthanide Coordination Compounds Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fairton-germano-bispo-junior",
+    "tags": [
+      "Inorganic Chemistry",
+      "Coordination Chemistry",
+      "Lanthanides",
+      "Luminescence",
+      "Molecular Magnetism"
+    ],
+    "description": "Studies luminescence, magnetism, and energy-transfer processes in lanthanide(III) coordination compounds, including single-molecule magnets and solid-state lighting materials.",
+    "headOfLab": "Airton Germano Bispo Junior",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fairton-germano-bispo-junior"
+  },
+  {
+    "id": "organochalcogen-synthesis-group-university-of-sao-paulo-brazil",
+    "name": "Organochalcogen Synthesis Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Falcindo-aparecido-dos-santos",
+    "tags": [
+      "Organic Synthesis",
+      "Organochalcogen Chemistry",
+      "Sulfur Chemistry",
+      "Selenium Chemistry",
+      "Tellurium Chemistry"
+    ],
+    "description": "Develops sulfur-, selenium-, and tellurium-containing compounds, with emphasis on fluorescent organochalcogen molecules, biological activity, and translational applications.",
+    "headOfLab": "Alcindo Aparecido dos Santos",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Falcindo-aparecido-dos-santos"
+  },
+  {
+    "id": "laboratorio-de-bioinorganica-catalise-e-farmacologia-university-of-sao-paulo-bra",
+    "name": "Laboratório de Bioinorgânica, Catálise e Farmacologia",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fana-maria-da-costa-ferreira",
+    "tags": [
+      "Bioinorganic Chemistry",
+      "Metal-Based Drugs",
+      "Catalysis",
+      "Pharmacology",
+      "Environmental Remediation"
+    ],
+    "description": "Combines bioinorganic chemistry, catalysis, and pharmacology to design metal-based drugs and oxidation catalysts for biomedical and environmental applications.",
+    "headOfLab": "Ana Maria da Costa Ferreira",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fana-maria-da-costa-ferreira"
+  },
+  {
+    "id": "microbial-natural-products-and-coral-metabolomics-group-university-of-sao-paulo-",
+    "name": "Microbial Natural Products and Coral Metabolomics Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fanelize-bauermeister",
+    "tags": [
+      "Natural Products",
+      "Metabolomics",
+      "Microbial Chemistry",
+      "Chemical Ecology",
+      "Marine Chemistry"
+    ],
+    "description": "Investigates microbial natural products, coral metabolomics, ecological interactions, and host–microorganism relationships to discover bioactive metabolites.",
+    "headOfLab": "Anelize Bauermeister",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fanelize-bauermeister"
+  },
+  {
+    "id": "laboratorio-de-qsar-e-modelagem-molecular-de-compostos-bioativos-university-of-s",
+    "name": "Laboratório de QSAR e Modelagem Molecular de Compostos Bioativos",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fantonia-tavares-do-amaral",
+    "tags": [
+      "QSAR",
+      "Molecular Modeling",
+      "Medicinal Chemistry",
+      "Computational Chemistry",
+      "Bioactive Compounds"
+    ],
+    "description": "Applies QSAR, 3D-QSAR, and molecular modeling to antibacterial, antiparasitic, antiviral, anti-HIV, and other bioactive compounds.",
+    "headOfLab": "Antonia Tavares do Amaral",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fantonia-tavares-do-amaral"
+  },
+  {
+    "id": "computational-photophysics-group-university-of-sao-paulo-brazil",
+    "name": "Computational Photophysics Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fantonio-carlos-borin",
+    "tags": [
+      "Computational Chemistry",
+      "Theoretical Chemistry",
+      "Photophysics",
+      "Nucleic Acids",
+      "Photochemistry"
+    ],
+    "description": "Uses theoretical and computational chemistry to study photophysics of nucleobases and related compounds, including DNA/RNA photostability and photoinduced reactions.",
+    "headOfLab": "Antonio Carlos Borin",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fantonio-carlos-borin"
+  },
+  {
+    "id": "grupo-de-quimica-computacional-aplicada-university-of-sao-paulo-brazil",
+    "name": "Grupo de Química Computacional Aplicada",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fataualpa-albert-carmo-braga",
+    "tags": [
+      "Computational Chemistry",
+      "Catalysis",
+      "Reaction Mechanisms",
+      "Organometallic Chemistry",
+      "Green Chemistry"
+    ],
+    "description": "Uses DFT and related computational tools to investigate reaction mechanisms, ligand effects, and transition-metal catalysis in sustainable synthetic chemistry.",
+    "headOfLab": "Ataualpa Albert Carmo Braga",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fataualpa-albert-carmo-braga"
+  },
+  {
+    "id": "laboratorio-de-quimica-bioinorganica-ambiental-e-metalofarmacos-university-of-sa",
+    "name": "Laboratório de Química Bioinorgânica Ambiental e Metalofármacos",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fbreno-pannia-esp%C3%B3sito",
+    "tags": [
+      "Bioinorganic Chemistry",
+      "Metal-Based Drugs",
+      "Environmental Chemistry",
+      "Antimicrobial Compounds",
+      "Aquatic Chemistry"
+    ],
+    "description": "Works at the interface of inorganic and biological chemistry on environmental bioinorganic systems, metal uptake in aquatic organisms, antimicrobial metal complexes, and chelation therapy.",
+    "headOfLab": "Breno Pannia Espósito",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fbreno-pannia-esp%C3%B3sito"
+  },
+  {
+    "id": "asymmetric-catalysis-for-bioactive-compounds-group-university-of-sao-paulo-brazi",
+    "name": "Asymmetric Catalysis for Bioactive Compounds Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fbruno-matos-paz",
+    "tags": [
+      "Asymmetric Catalysis",
+      "Organocatalysis",
+      "Organic Synthesis",
+      "Bioactive Compounds",
+      "Stereochemistry"
+    ],
+    "description": "Develops chiral organocatalysts and stereoselective cascade reactions for the synthesis of bioactive compound libraries.",
+    "headOfLab": "Bruno Matos Paz",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fbruno-matos-paz"
+  },
+  {
+    "id": "grupo-pequim-pesquisa-em-ensino-de-quimica-university-of-sao-paulo-brazil",
+    "name": "Grupo PEQuim - Pesquisa em Ensino de Química",
+    "website": "https://sites.usp.br/pequim/",
+    "tags": [
+      "Chemistry Education",
+      "Teacher Training",
+      "Pedagogy",
+      "Science Education",
+      "PCK"
+    ],
+    "description": "Researches chemistry education, especially teacher knowledge, pedagogical content knowledge, and chemistry teaching and learning processes.",
+    "headOfLab": "Carmen Fernandez",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fcarmen-fernandez"
+  },
+  {
+    "id": "atomic-spectrometry-and-sample-preparation-group-university-of-sao-paulo-brazil",
+    "name": "Atomic Spectrometry and Sample Preparation Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fcassiana-seimi-nomura",
+    "tags": [
+      "Analytical Chemistry",
+      "Atomic Spectrometry",
+      "Sample Preparation",
+      "Reference Materials",
+      "Elemental Analysis"
+    ],
+    "description": "Develops elemental analysis methods and reference materials for food, pharmaceutical, environmental, biological, and technological samples using atomic spectrometry techniques.",
+    "headOfLab": "Cassiana Seimi Nomura",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fcassiana-seimi-nomura"
+  },
+  {
+    "id": "laboratorio-de-bioluminescencia-de-fungos-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Bioluminescência de Fungos",
+    "website": "https://www.stevanilab.com/",
+    "tags": [
+      "Bioluminescence",
+      "Redox Chemistry",
+      "Chemical Biology",
+      "Fungal Chemistry",
+      "Organic Chemistry"
+    ],
+    "description": "Studies the chemistry and biology of fungal bioluminescence within broader interests in redox biology, bioinformatics, and organic chemistry.",
+    "headOfLab": "Cassius Vinicius Stevani",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fcassius-vinicius-stevani"
+  },
+  {
+    "id": "analytical-instrumentation-development-group-university-of-sao-paulo-brazil",
+    "name": "Analytical Instrumentation Development Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fclaudimir-lucio-do-lago",
+    "tags": [
+      "Analytical Chemistry",
+      "Instrumentation",
+      "Capillary Electrophoresis",
+      "Microfluidics",
+      "Electrochemical Detection"
+    ],
+    "description": "Designs analytical instrumentation and computational methods for capillary electrophoresis, microfluidics, and contactless electrochemical detection in food, fuel, and environmental applications.",
+    "headOfLab": "Claudimir Lucio do Lago",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fclaudimir-lucio-do-lago"
+  },
+  {
+    "id": "laboratorio-de-sintese-e-reatividade-de-compostos-organicos-de-enxofre-universit",
+    "name": "Laboratório de Síntese e Reatividade de Compostos Orgânicos de Enxofre",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fclaudio-di-vitta",
+    "tags": [
+      "Organic Synthesis",
+      "Organosulfur Chemistry",
+      "Sulfoxides",
+      "Reaction Mechanisms",
+      "Asymmetric Synthesis"
+    ],
+    "description": "Focuses on the synthesis and reactivity of organosulfur compounds, including sulfoxides and asymmetric transformations.",
+    "headOfLab": "Claudio Di Vitta",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fclaudio-di-vitta"
+  },
+  {
+    "id": "organic-photochemistry-and-chemistry-education-group-university-of-sao-paulo-bra",
+    "name": "Organic Photochemistry and Chemistry Education Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fdaisy-de-brito-rezende",
+    "tags": [
+      "Photochemistry",
+      "Organic Chemistry",
+      "Chemical Education",
+      "Bioactive Molecules",
+      "Biocatalysis"
+    ],
+    "description": "Works on organic photochemistry and photophysics, bioactive compounds, and chemistry education, including haloaromatic systems and biocatalysts from Brazilian flora.",
+    "headOfLab": "Daisy de Brito Rezende",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fdaisy-de-brito-rezende"
+  },
+  {
+    "id": "laboratorio-laqise-bimet-university-of-sao-paulo-brazil",
+    "name": "Laboratório Laqise-Bimet",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fdenise-de-oliveira-silva",
+    "tags": [
+      "Bioinorganic Chemistry",
+      "Metal-Based Drugs",
+      "Ruthenium Chemistry",
+      "Copper Chemistry",
+      "Drug Delivery"
+    ],
+    "description": "Develops metal-containing compounds and delivery systems in synthetic and structural bioinorganic chemistry for anticancer, anti-inflammatory, and antimicrobial applications.",
+    "headOfLab": "Denise de Oliveira Silva",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fdenise-de-oliveira-silva"
+  },
+  {
+    "id": "macromoleculas-em-interfaces-e-superficies-university-of-sao-paulo-brazil",
+    "name": "Macromoléculas em interfaces e superfícies",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fdenise-freitas-siqueira-petri",
+    "tags": [
+      "Physical Chemistry",
+      "Polymers",
+      "Surface Chemistry",
+      "Colloids",
+      "Biomaterials"
+    ],
+    "description": "Studies polymers and macromolecules at interfaces, including colloidal stability, polymer–protein interactions, surface properties, and magnetic hybrid materials.",
+    "headOfLab": "Denise Freitas Siqueira Petri",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fdenise-freitas-siqueira-petri"
+  },
+  {
+    "id": "pseudo-natural-products-group-university-of-sao-paulo-brazil",
+    "name": "Pseudo-Natural Products Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ferick-leite-bastos",
+    "tags": [
+      "Organic Chemistry",
+      "Natural Products",
+      "Redox Chemistry",
+      "Photoscience",
+      "Synthesis"
+    ],
+    "description": "Creates pseudo-natural products and investigates photoscience, synthesis, redox processes, and natural-product-inspired chemistry.",
+    "headOfLab": "Erick Leite Bastos",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ferick-leite-bastos"
+  },
+  {
+    "id": "electronic-chemiexcitation-in-biological-systems-group-university-of-sao-paulo-b",
+    "name": "Electronic Chemiexcitation in Biological Systems Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fetelvino-jos%C3%A9-henriques-bechara",
+    "tags": [
+      "Chemical Biology",
+      "Bioluminescence",
+      "Oxidative Stress",
+      "Singlet Oxygen",
+      "Photochemistry"
+    ],
+    "description": "Investigates bioluminescence and dark photochemistry in biological systems, focusing on triplet carbonyls, singlet oxygen, and oxidative damage pathways.",
+    "headOfLab": "Etelvino José Henriques Bechara",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fetelvino-jos%C3%A9-henriques-bechara"
+  },
+  {
+    "id": "microbial-metabolism-and-environmental-biosignatures-group-university-of-sao-pau",
+    "name": "Microbial Metabolism and Environmental Biosignatures Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ffabio-rodrigues",
+    "tags": [
+      "Analytical Chemistry",
+      "Microbial Chemistry",
+      "Metabolomics",
+      "Environmental Chemistry",
+      "Biosignatures"
+    ],
+    "description": "Studies how microorganisms respond metabolically to environmental variation and how microbe–mineral and microbe–metal interactions generate chemical biosignatures.",
+    "headOfLab": "Fabio Rodrigues",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ffabio-rodrigues"
+  },
+  {
+    "id": "laboratorio-de-quimica-computacional-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Química Computacional",
+    "website": "https://www.iq.usp.br/frornell/",
+    "tags": [
+      "Computational Chemistry",
+      "Theoretical Chemistry",
+      "Spectroscopy",
+      "Kinetics",
+      "Chemical Dynamics"
+    ],
+    "description": "Performs theoretical and computational studies on molecular structure, energetics, spectroscopy, kinetics, and chemical dynamics.",
+    "headOfLab": "Fernando Rei Ornellas",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ffernando-rei-ornellas"
+  },
+  {
+    "id": "chemistry-education-group-university-of-sao-paulo-brazil",
+    "name": "Chemistry Education Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fflavio-antonio-maximiano",
+    "tags": [
+      "Chemistry Education",
+      "Learning Sciences",
+      "Curriculum",
+      "Higher Education",
+      "Teacher Education"
+    ],
+    "description": "Researches conceptual learning and chemistry teaching in basic and higher education.",
+    "headOfLab": "Flavio Antonio Maximiano",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fflavio-antonio-maximiano"
+  },
+  {
+    "id": "laboratorio-de-quimica-de-materiais-e-energia-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Química de Materiais e Energia",
+    "website": "https://www.iq.usp.br/fmvichi/html/index.htm",
+    "tags": [
+      "Materials Chemistry",
+      "Energy Materials",
+      "Ceramics",
+      "Fuel Cells",
+      "Photocatalysis"
+    ],
+    "description": "Develops ceramic materials via non-conventional synthesis routes for fuel cells, photovoltaics, luminescent devices, photocatalysis, and related energy applications.",
+    "headOfLab": "Flávio Maron Vichi",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ffl%C3%A1vio-maron-vichi"
+  },
+  {
+    "id": "molecular-photo-dynamics-university-of-sao-paulo-brazil",
+    "name": "Molecular Photo Dynamics",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ffrank-herbert-quina",
+    "tags": [
+      "Photochemistry",
+      "Photophysics",
+      "Colloid Chemistry",
+      "Surface Chemistry",
+      "Natural Dyes"
+    ],
+    "description": "Works on organic photochemistry and photophysics, natural dyes, and colloid/surface chemistry, including organized systems and environmental photodegradation.",
+    "headOfLab": "Frank Herbert Quina",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Ffrank-herbert-quina"
+  },
+  {
+    "id": "funii-lab-functional-nanoscale-imaging-of-interfaces-university-of-sao-paulo-bra",
+    "name": "FuNII Lab (Functional Nanoscale Imaging of Interfaces)",
+    "website": "https://www.funiilab.com/",
+    "tags": [
+      "Electrochemistry",
+      "Scanning Probe Methods",
+      "Interfaces",
+      "Instrumentation",
+      "Nanoscience"
+    ],
+    "description": "Develops spatially resolved electrochemical instrumentation to investigate nanoscale interfacial processes in biotic and abiotic systems.",
+    "headOfLab": "Gabriel Negrão Meloni",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fgabriel-negr%C3%A3o-meloni"
+  },
+  {
+    "id": "synthesis-and-photochemistry-of-porphyrinic-and-dendrimeric-compounds-group-univ",
+    "name": "Synthesis and Photochemistry of Porphyrinic and Dendrimeric Compounds Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fgianluca-camillo-azzellini",
+    "tags": [
+      "Porphyrins",
+      "Photochemistry",
+      "Dendrimers",
+      "Supramolecular Chemistry",
+      "Photodynamic Therapy"
+    ],
+    "description": "Designs porphyrin- and dendrimer-based systems for photoswitches, photosynthesis models, photodynamic therapy, and host–guest nanostructures.",
+    "headOfLab": "Gianluca Camillo Azzellini",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fgianluca-camillo-azzellini"
+  },
+  {
+    "id": "chemistry-education-and-outreach-group-university-of-sao-paulo-brazil",
+    "name": "Chemistry Education and Outreach Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fguilherme-andrade-marson",
+    "tags": [
+      "Chemistry Education",
+      "Science Communication",
+      "Outreach",
+      "Digital Education",
+      "Public Understanding of Science"
+    ],
+    "description": "Researches chemistry teaching, science communication, and the public image of chemistry, including digital tools for education and outreach.",
+    "headOfLab": "Guilherme Andrade Marson",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fguilherme-andrade-marson"
+  },
+  {
+    "id": "laboratorio-de-eletrossintese-organica-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Eletrossíntese Orgânica",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fhans-viertler",
+    "tags": [
+      "Organic Electrosynthesis",
+      "Electrochemistry",
+      "Organosulfur Chemistry",
+      "Redox Catalysis",
+      "Organic Synthesis"
+    ],
+    "description": "Explores redox catalysis and electrochemistry in organic synthesis, especially functionalized organosulfur compounds.",
+    "headOfLab": "Hans Viertler",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fhans-viertler"
+  },
+  {
+    "id": "ab-initio-dft-and-rrkm-computational-studies-group-university-of-sao-paulo-brazi",
+    "name": "Ab Initio / DFT and RRKM Computational Studies Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fharrald-victor-linnert",
+    "tags": [
+      "Computational Chemistry",
+      "DFT",
+      "RRKM",
+      "Reaction Dynamics",
+      "Combustion Chemistry"
+    ],
+    "description": "Uses computational chemistry to study laser-induced reactions, unimolecular processes, combustion chemistry, and conformations of bioactive molecules.",
+    "headOfLab": "Harrald Victor Linnert",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fharrald-victor-linnert"
+  },
+  {
+    "id": "nanotechnology-group-university-of-sao-paulo-brazil",
+    "name": "Nanotechnology Group",
+    "website": "https://www.iq.usp.br/koiaraki/index.htm",
+    "tags": [
+      "Nanotechnology",
+      "Supramolecular Chemistry",
+      "Metal Complexes",
+      "Sensors",
+      "Functional Materials"
+    ],
+    "description": "Builds supramolecular and self-assembled nanostructures based on porphyrins, clusters, and metal complexes for sensors, devices, and functional nanomaterials.",
+    "headOfLab": "Henrique Eisi Toma",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fhenrique-eisi-toma"
+  },
+  {
+    "id": "laboratorio-dos-elementos-do-bloco-f-university-of-sao-paulo-brazil",
+    "name": "Laboratório dos Elementos do Bloco-f",
+    "website": "https://lebf-iqusp.blogspot.com/",
+    "tags": [
+      "Rare Earths",
+      "Luminescence",
+      "Electroluminescence",
+      "OLEDs",
+      "Optical Materials"
+    ],
+    "description": "Develops rare-earth luminescent and electroluminescent systems for molecular light-converting devices, OLEDs, and optical markers.",
+    "headOfLab": "Hermi Felinto de Brito",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fhermi-felinto-de-brito"
+  },
+  {
+    "id": "instrumental-analytical-chemistry-group-university-of-sao-paulo-brazil",
+    "name": "Instrumental Analytical Chemistry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fivano-gebhardt-rolf-gutz",
+    "tags": [
+      "Analytical Chemistry",
+      "Electroanalysis",
+      "Instrumentation",
+      "Microfluidics",
+      "Sensors"
+    ],
+    "description": "Develops electroanalytical instrumentation, spectroelectrochemical methods, flow systems, microfluidics, lab-on-a-chip devices, and chemical sensors.",
+    "headOfLab": "Ivano Gebhardt Rolf Gutz",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fivano-gebhardt-rolf-gutz"
+  },
+  {
+    "id": "environmental-analytical-chemistry-group-university-of-sao-paulo-brazil",
+    "name": "Environmental Analytical Chemistry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjany-hellen-ferreira-de-jesus",
+    "tags": [
+      "Environmental Chemistry",
+      "Analytical Chemistry",
+      "Advanced Oxidation",
+      "Adsorption",
+      "Thermal Analysis"
+    ],
+    "description": "Combines environmental analysis, adsorption processes, advanced oxidation, and thermal methods to address pollutants and pharmaceutical materials.",
+    "headOfLab": "Jany Hellen Ferreira de Jesus",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjany-hellen-ferreira-de-jesus"
+  },
+  {
+    "id": "thermal-analysis-and-nanostructured-materials-group-university-of-sao-paulo-braz",
+    "name": "Thermal Analysis and Nanostructured Materials Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjivaldo-do-ros%C3%A1rio-matos",
+    "tags": [
+      "Thermal Analysis",
+      "Materials Chemistry",
+      "Nanostructured Materials",
+      "Adsorption",
+      "Characterization"
+    ],
+    "description": "Works on synthesis, characterization, thermal analysis, and adsorption properties of diverse materials, including highly ordered mesoporous solids.",
+    "headOfLab": "Jivaldo do Rosário Matos",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjivaldo-do-ros%C3%A1rio-matos"
+  },
+  {
+    "id": "metalodrugs-and-structural-crystallography-group-university-of-sao-paulo-brazil",
+    "name": "Metalodrugs and Structural Crystallography Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjo%C3%A3o-honorato-de-araujo-neto",
+    "tags": [
+      "Inorganic Chemistry",
+      "Metal-Based Drugs",
+      "Crystallography",
+      "Coordination Chemistry",
+      "MOFs"
+    ],
+    "description": "Develops new metallodrugs for cancer and tuberculosis and applies crystallography to coordination compounds, organometallics, MOFs, and other small molecules.",
+    "headOfLab": "João Honorato de Araujo Neto",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjo%C3%A3o-honorato-de-araujo-neto"
+  },
+  {
+    "id": "laboratorio-de-fisicoquimica-organica-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Físicoquímica Orgânica",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjo%C3%A3o-pedro-simon-farah",
+    "tags": [
+      "Physical Organic Chemistry",
+      "Micelles",
+      "Molecular Modeling",
+      "Reaction Mechanisms",
+      "Separation Science"
+    ],
+    "description": "Studies organic reaction mechanisms in micellar and mixed-solvent systems, partition and solubilization processes, and molecular descriptors using LSER, QSRR, and molecular dynamics.",
+    "headOfLab": "João Pedro Simon Farah",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjo%C3%A3o-pedro-simon-farah"
+  },
+  {
+    "id": "laboratorio-de-eletroquimica-organica-leo-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Eletroquímica Orgânica (LEO)",
+    "website": "https://sites.google.com/site/jonasgruber3/01-forma%C3%A7%C3%A3o-acad%C3%AAmica?authuser=0",
+    "tags": [
+      "Conductive Polymers",
+      "Organic Electrochemistry",
+      "Sensors",
+      "Materials Chemistry",
+      "Environmental Analysis"
+    ],
+    "description": "Researches conductive polymers and electrochemical materials for gas sensors, electronic noses, and applications in environmental and food chemistry.",
+    "headOfLab": "Jonas Gruber",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjonas-gruber"
+  },
+  {
+    "id": "porous-materials-in-analytical-and-environmental-chemistry-group-university-of-s",
+    "name": "Porous Materials in Analytical and Environmental Chemistry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjorge-c%C3%A9sar-masini",
+    "tags": [
+      "Analytical Chemistry",
+      "Porous Materials",
+      "Chromatography",
+      "Environmental Chemistry",
+      "Sample Preparation"
+    ],
+    "description": "Develops porous monolithic materials for chromatography, sample preparation, pollutant monitoring, and interactions of contaminants with mineral and organic surfaces.",
+    "headOfLab": "Jorge César Masini",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjorge-c%C3%A9sar-masini"
+  },
+  {
+    "id": "gas-phase-ion-reactivity-and-spectroscopy-group-university-of-sao-paulo-brazil",
+    "name": "Gas-Phase Ion Reactivity and Spectroscopy Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjos%C3%A9-manuel-riveros-nigra",
+    "tags": [
+      "Gas-Phase Chemistry",
+      "Ion Chemistry",
+      "Spectroscopy",
+      "Reaction Mechanisms",
+      "Theoretical Chemistry"
+    ],
+    "description": "Investigates gas-phase ion–molecule reactivity, mechanisms, energetics, ion solvation, and vibrational spectroscopy using combined experimental and theoretical methods.",
+    "headOfLab": "José Manuel Riveros Nigra",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjos%C3%A9-manuel-riveros-nigra"
+  },
+  {
+    "id": "photosyn-university-of-sao-paulo-brazil",
+    "name": "PhotoSyn",
+    "website": "https://sites.usp.br/photosynlab/",
+    "tags": [
+      "Photocatalysis",
+      "Photoredox Catalysis",
+      "Organic Synthesis",
+      "Radical Chemistry",
+      "Green Chemistry"
+    ],
+    "description": "Develops visible-light photocatalytic and photoredox strategies for the functionalization of organic molecules and selective radical reactions.",
+    "headOfLab": "José Tiago Menezes Correia",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjos%C3%A9-tiago-menezes-correia"
+  },
+  {
+    "id": "laboratorio-de-quimiluminescencia-organica-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Quimiluminescência Orgânica",
+    "website": "https://www.iq.usp.br/wjbaader/Baader/Inicial.html",
+    "tags": [
+      "Chemiluminescence",
+      "Organic Chemistry",
+      "Analytical Chemistry",
+      "Bioanalysis",
+      "Peroxides"
+    ],
+    "description": "Investigates organic chemiluminescence mechanisms and applies them to analytical and bioanalytical methods, including antioxidant assays.",
+    "headOfLab": "Josef Wilhelm Baader",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fjosef-wilhelm-baader"
+  },
+  {
+    "id": "materials-spectroscopy-and-electrochemistry-group-university-of-sao-paulo-brazil",
+    "name": "Materials, Spectroscopy, and Electrochemistry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fkalil-cristhian-figueiredo-toledo",
+    "tags": [
+      "Inorganic Chemistry",
+      "Materials Chemistry",
+      "Spectroscopy",
+      "Electrochemistry",
+      "Catalysis"
+    ],
+    "description": "Works across inorganic chemistry, catalysis, materials science, spectroscopy, electrochemistry, photoscience, and synthesis.",
+    "headOfLab": "Kalil Cristhian Figueiredo Toledo",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fkalil-cristhian-figueiredo-toledo"
+  },
+  {
+    "id": "laboratory-of-supramolecular-chemistry-and-nanotechnology-university-of-sao-paul",
+    "name": "Laboratory of Supramolecular Chemistry and Nanotechnology",
+    "website": "https://www.iq.usp.br/koiaraki/members/ka.htm",
+    "tags": [
+      "Supramolecular Chemistry",
+      "Nanotechnology",
+      "Coordination Chemistry",
+      "Nanoparticles",
+      "Functional Materials"
+    ],
+    "description": "Develops supramolecular coordination systems and nanoparticles for nanotechnology and advanced functional-material applications.",
+    "headOfLab": "Koiti Araki",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fkoiti-araki"
+  },
+  {
+    "id": "laboratorio-de-quimica-fine-e-biocatalise-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Química Fine e Biocatálise",
+    "website": "https://leandroh.myportfolio.com/",
+    "tags": [
+      "Organic Synthesis",
+      "Catalysis",
+      "Flow Chemistry",
+      "Green Chemistry",
+      "Process Chemistry"
+    ],
+    "description": "Develops catalytic and flow-based synthetic methods with a sustainability focus in organic chemistry.",
+    "headOfLab": "Leandro Helgueira de Andrade",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fleandro-helgueira-de-andrade"
+  },
+  {
+    "id": "laboratorio-de-nanomateriais-e-catalise-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Nanomateriais e Catálise",
+    "website": "https://www.lianerossi.org/",
+    "tags": [
+      "Nanomaterials",
+      "Catalysis",
+      "Nanoparticles",
+      "Heterogeneous Catalysis",
+      "Carbon Capture"
+    ],
+    "description": "Designs metallic nanoparticles and related nanomaterials for heterogeneous catalysis and carbon capture/conversion applications.",
+    "headOfLab": "Liane Marcia Rossi",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fliane-marcia-rossi"
+  },
+  {
+    "id": "laboratorio-de-catalise-de-transferencia-de-fase-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Catálise de Transferência de Fase",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fliliana-marzorati",
+    "tags": [
+      "Phase-Transfer Catalysis",
+      "Asymmetric Synthesis",
+      "Green Chemistry",
+      "Organic Synthesis",
+      "Catalysis"
+    ],
+    "description": "Develops chiral phase-transfer catalysts and greener enantioselective synthesis routes to valuable intermediates.",
+    "headOfLab": "Liliana Marzorati",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fliliana-marzorati"
+  },
+  {
+    "id": "laboratorio-de-materiais-fotonicos-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Materiais Fotônicos",
+    "website": "https://lmflab.iq.usp.br/",
+    "tags": [
+      "Photonic Materials",
+      "Luminescence",
+      "Energy Materials",
+      "Bioimaging",
+      "Inorganic Materials"
+    ],
+    "description": "Develops photonic materials for energy conversion and storage, persistent luminescence, bioimaging, catalysis, and transparent films and glasses.",
+    "headOfLab": "Lucas Carvalho Veloso Rodrigues",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Flucas-carvalho-veloso-rodrigues"
+  },
+  {
+    "id": "computational-simulation-and-nmr-parameters-group-university-of-sao-paulo-brazil",
+    "name": "Computational Simulation and NMR Parameters Group",
+    "website": "https://www.iq.usp.br/ducati/index.html",
+    "tags": [
+      "Computational Chemistry",
+      "Molecular Dynamics",
+      "NMR",
+      "Theoretical Chemistry",
+      "Spectroscopy"
+    ],
+    "description": "Uses molecular dynamics, ab initio calculations, and enhanced sampling to study solvent effects and NMR observables in molecular systems.",
+    "headOfLab": "Lucas Colucci Ducati",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Flucas-colucci-ducati"
+  },
+  {
+    "id": "teacher-education-group-university-of-sao-paulo-brazil",
+    "name": "Teacher Education Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fluciane-fernandes-de-goes-bazetti",
+    "tags": [
+      "Chemistry Education",
+      "Teacher Training",
+      "Pedagogy",
+      "Science Education"
+    ],
+    "description": "Focuses on chemistry teacher education and formation.",
+    "headOfLab": "Luciane Fernandes de Goes Bazetti",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fluciane-fernandes-de-goes-bazetti"
+  },
+  {
+    "id": "instrumental-analytical-chemistry-and-chemical-sensors-group-university-of-sao-p",
+    "name": "Instrumental Analytical Chemistry and Chemical Sensors Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fl%C3%BAcio-angnes",
+    "tags": [
+      "Analytical Chemistry",
+      "Electroanalysis",
+      "Chemical Sensors",
+      "Flow Analysis",
+      "Biosensors"
+    ],
+    "description": "Develops rapid analytical methodologies, chemical sensors, electroanalytical methods, flow-analysis systems, modified electrodes, microelectrode arrays, biosensors, and amperometric detection strategies.",
+    "headOfLab": "Lúcio Angnes",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fl%C3%BAcio-angnes"
+  },
+  {
+    "id": "laboratorio-de-biomateriais-polimericos-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Biomateriais Poliméricos",
+    "website": "https://www.iq.usp.br/catalani/",
+    "tags": [
+      "Biomaterials",
+      "Polymers",
+      "Tissue Engineering",
+      "Electrospinning",
+      "Biomedical Materials"
+    ],
+    "description": "Develops biodegradable and bioabsorbable polymer biomaterials, including electrospun scaffolds for tissue engineering.",
+    "headOfLab": "Luiz Henrique Catalani",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fluiz-henrique-catalani"
+  },
+  {
+    "id": "laboratorio-de-espectroscopia-molecular-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Espectroscopia Molecular",
+    "website": "https://lem.iq.usp.br/",
+    "tags": [
+      "Raman Spectroscopy",
+      "SERS",
+      "Polymers",
+      "Nanocomposites",
+      "Molecular Spectroscopy"
+    ],
+    "description": "Uses Raman and SERS spectroscopy to characterize conductive polymers, nanocomposites, natural polymers, and bioanalytical systems.",
+    "headOfLab": "Márcia Laudelina Arruda Temperini",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fm%C3%A1rcia-laudelina-arruda-temperini"
+  },
+  {
+    "id": "gepeq-iqusp-grupo-de-pesquisa-em-educacao-quimica-university-of-sao-paulo-brazil",
+    "name": "GEPEQ IQUSP - Grupo de Pesquisa em Educação Química",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmaria-eunice-ribeiro-marcondes",
+    "tags": [
+      "Chemistry Education",
+      "Curriculum Development",
+      "Teacher Development",
+      "Outreach",
+      "Science Education"
+    ],
+    "description": "Works to improve chemistry teaching through curriculum materials, teacher development, outreach, and research in chemistry education.",
+    "headOfLab": "Maria Eunice Ribeiro Marcondes",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmaria-eunice-ribeiro-marcondes"
+  },
+  {
+    "id": "laboratorio-de-cromatografia-e-eletroforese-capilar-university-of-sao-paulo-braz",
+    "name": "Laboratório de Cromatografia e Eletroforese Capilar",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmarina-franco-maggi-tavares",
+    "tags": [
+      "Chromatography",
+      "Capillary Electrophoresis",
+      "Metabolomics",
+      "Analytical Chemistry",
+      "Forensic Analysis"
+    ],
+    "description": "Develops separation and metabolomics methods for clinical, forensic, cosmetic, environmental, food, and pharmaceutical applications.",
+    "headOfLab": "Marina Franco Maggi Tavares",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmarina-franco-maggi-tavares"
+  },
+  {
+    "id": "laboratorio-de-quimica-de-produtos-naturais-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Química de Produtos Naturais",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmassuo-jorge-kato",
+    "tags": [
+      "Natural Products",
+      "Plant Chemistry",
+      "Metabolomics",
+      "Chemical Ecology",
+      "Biosynthesis"
+    ],
+    "description": "Studies natural-product diversity, metabolomics, and biosynthetic/evolutionary questions in plants, especially Piperaceae species.",
+    "headOfLab": "Massuo Jorge Kato",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmassuo-jorge-kato"
+  },
+  {
+    "id": "laboratorio-de-sensores-eletroquimicos-e-microscopia-eletroquimica-university-of",
+    "name": "Laboratório de Sensores Eletroquímicos e Microscopia Eletroquímica",
+    "website": "https://www.iq.usp.br/lseme/en",
+    "tags": [
+      "Electrochemistry",
+      "Sensors",
+      "Microelectrodes",
+      "Scanning Electrochemical Microscopy",
+      "Analytical Chemistry"
+    ],
+    "description": "Develops electrochemical sensors, microelectrodes, and scanning electrochemical microscopy methods for analytical and bioanalytical applications.",
+    "headOfLab": "Mauro Bertotti",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmauro-bertotti"
+  },
+  {
+    "id": "molecular-dynamics-and-raman-spectroscopy-of-liquids-group-university-of-sao-pau",
+    "name": "Molecular Dynamics and Raman Spectroscopy of Liquids Group",
+    "website": "https://lem.iq.usp.br/",
+    "tags": [
+      "Raman Spectroscopy",
+      "Molecular Dynamics",
+      "Ionic Liquids",
+      "Physical Chemistry",
+      "Liquids"
+    ],
+    "description": "Combines Raman spectroscopy and molecular dynamics simulations to study ionic liquids, molten salts, glass precursors, and liquid-state structure and dynamics.",
+    "headOfLab": "Mauro Carlos Costa Ribeiro",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fmauro-carlos-costa-ribeiro"
+  },
+  {
+    "id": "polymer-and-surfactant-group-university-of-sao-paulo-brazil",
+    "name": "Polymer and Surfactant Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fomar-abdel-moneim-abou-el-seoud",
+    "tags": [
+      "Green Chemistry",
+      "Ionic Liquids",
+      "Deep Eutectic Solvents",
+      "Polymers",
+      "Surfactants"
+    ],
+    "description": "Works on green chemistry with ionic liquids and deep eutectic solvents, their applications to biopolymers and decontamination, and chemistry education for sustainability.",
+    "headOfLab": "Omar Abdel Moneim Abou El Seoud",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fomar-abdel-moneim-abou-el-seoud"
+  },
+  {
+    "id": "environmental-spectroscopy-group-university-of-sao-paulo-brazil",
+    "name": "Environmental Spectroscopy Group",
+    "website": "https://lem.iq.usp.br/",
+    "tags": [
+      "Environmental Chemistry",
+      "Spectroscopy",
+      "Electrochemistry",
+      "Pollutants",
+      "Raman Spectroscopy"
+    ],
+    "description": "Applies vibrational spectroscopy and electrochemical methods to detect, characterize, and degrade environmentally relevant pollutants.",
+    "headOfLab": "Paola Corio",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaola-corio"
+  },
+  {
+    "id": "history-of-science-and-chemistry-education-group-university-of-sao-paulo-brazil",
+    "name": "History of Science and Chemistry Education Group",
+    "website": "https://www.iq.usp.br/palporto/",
+    "tags": [
+      "History of Science",
+      "Chemistry Education",
+      "Teacher Education",
+      "Curriculum",
+      "Philosophy of Science"
+    ],
+    "description": "Studies how history and philosophy of science can support chemistry teaching, curriculum, and teacher education.",
+    "headOfLab": "Paulo Alves Porto",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-alves-porto"
+  },
+  {
+    "id": "mechanochemistry-and-mechanical-reactivity-of-solids-group-university-of-sao-pau",
+    "name": "Mechanochemistry and Mechanical Reactivity of Solids Group",
+    "website": "https://paulodeoliveira-lab.weebly.com/",
+    "tags": [
+      "Mechanochemistry",
+      "Materials Chemistry",
+      "Solid-State Chemistry",
+      "Nanoparticles",
+      "Green Chemistry"
+    ],
+    "description": "Develops mechanochemical routes for synthesis, nanoparticle production, solid reactivity, and sustainable materials processing.",
+    "headOfLab": "Paulo Filho Marques de Oliveira",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-filho-marques-de-oliveira"
+  },
+  {
+    "id": "bioactive-natural-products-group-university-of-sao-paulo-brazil",
+    "name": "Bioactive Natural Products Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-roberto-hrihorowitsch-moreno",
+    "tags": [
+      "Natural Products",
+      "Medicinal Chemistry",
+      "Biosynthesis",
+      "Essential Oils",
+      "Cosmetics"
+    ],
+    "description": "Searches for therapeutically relevant natural products and studies secondary-metabolite biosynthesis, essential oils, and cosmetic applications of natural compounds.",
+    "headOfLab": "Paulo Roberto Hrihorowitsch Moreno",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-roberto-hrihorowitsch-moreno"
+  },
+  {
+    "id": "conformational-analysis-and-electronic-interactions-group-university-of-sao-paul",
+    "name": "Conformational Analysis and Electronic Interactions Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-roberto-olivato",
+    "tags": [
+      "Physical Organic Chemistry",
+      "Conformational Analysis",
+      "Stereoelectronics",
+      "Spectroscopy",
+      "Theoretical Chemistry"
+    ],
+    "description": "Studies stereoelectronic effects, conformational equilibria, and mechanisms in heterosubstituted carbonyl, phosphoryl, and related compounds using spectroscopy and theory.",
+    "headOfLab": "Paulo Roberto Olivato",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-roberto-olivato"
+  },
+  {
+    "id": "raman-spectroscopy-of-molecular-interactions-group-university-of-sao-paulo-brazi",
+    "name": "Raman Spectroscopy of Molecular Interactions Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-s%C3%A9rgio-santos",
+    "tags": [
+      "Raman Spectroscopy",
+      "Physical Chemistry",
+      "Ionic Liquids",
+      "Molecular Interactions",
+      "Spectroscopy"
+    ],
+    "description": "Uses Raman spectroscopy to investigate molecular interactions in solids and solutions, especially ionic-liquid systems and their physicochemical properties.",
+    "headOfLab": "Paulo Sérgio Santos",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpaulo-s%C3%A9rgio-santos"
+  },
+  {
+    "id": "carbon-capture-and-conversion-group-university-of-sao-paulo-brazil",
+    "name": "Carbon Capture and Conversion Group",
+    "website": "https://www.suscarbon.com/",
+    "tags": [
+      "Carbon Capture",
+      "CO2 Conversion",
+      "Catalysis",
+      "Sustainable Chemistry",
+      "Energy"
+    ],
+    "description": "Develops catalytic and sustainable processes to capture CO2 and transform it into fuels, methanol, aviation fuels, and other value-added products.",
+    "headOfLab": "Pedro Miguel Vidinha Gomes",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpedro-miguel-vidinha-gomes"
+  },
+  {
+    "id": "trace-analysis-and-elemental-speciation-group-university-of-sao-paulo-brazil",
+    "name": "Trace Analysis and Elemental Speciation Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpedro-vitoriano-de-oliveira",
+    "tags": [
+      "Analytical Chemistry",
+      "Trace Analysis",
+      "Elemental Speciation",
+      "Atomic Spectrometry",
+      "LIBS"
+    ],
+    "description": "Develops spectrometric methods for trace and ultratrace analysis and elemental speciation in biological, food, and technological samples.",
+    "headOfLab": "Pedro Vitoriano de Oliveira",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpedro-vitoriano-de-oliveira"
+  },
+  {
+    "id": "laboratorio-de-estudos-em-quimica-atmosferica-e-outros-ambientes-university-of-s",
+    "name": "Laboratório de Estudos em Química Atmosférica e outros ambientes",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fp%C3%A9rola-de-castro-vasconcellos",
+    "tags": [
+      "Atmospheric Chemistry",
+      "Environmental Analysis",
+      "Air Quality",
+      "Pollution",
+      "Analytical Chemistry"
+    ],
+    "description": "Studies atmospheric particles, rainwater, soils, pollution sources, and health impacts using chromatographic methods and atmospheric-chemistry models.",
+    "headOfLab": "Pérola de Castro Vasconcellos",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fp%C3%A9rola-de-castro-vasconcellos"
+  },
+  {
+    "id": "potential-energy-surfaces-and-physical-chemistry-teaching-group-university-of-sa",
+    "name": "Potential Energy Surfaces and Physical Chemistry Teaching Group",
+    "website": "https://www.iq.usp.br/pwtiedem/",
+    "tags": [
+      "Theoretical Chemistry",
+      "Reaction Dynamics",
+      "Potential Energy Surfaces",
+      "Atmospheric Chemistry",
+      "Education"
+    ],
+    "description": "Studies trajectories on potential energy surfaces for atmospheric, combustion, and laser chemistry while also developing computational tools for teaching physical chemistry.",
+    "headOfLab": "Peter Wilhelm Tiedemann",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fpeter-wilhelm-tiedemann"
+  },
+  {
+    "id": "grupo-de-quimica-verde-e-ambiental-university-of-sao-paulo-brazil",
+    "name": "Grupo de Química Verde e Ambiental",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Freinaldo-camino-bazito",
+    "tags": [
+      "Green Chemistry",
+      "Supercritical CO2",
+      "Ionic Liquids",
+      "Organocatalysis",
+      "Carbon Capture"
+    ],
+    "description": "Works in green chemistry with supercritical CO2, ionic liquids, surfactants, amphiphilic polymers, organocatalysis, and carbon capture and conversion.",
+    "headOfLab": "Reinaldo Camino Bazito",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Freinaldo-camino-bazito"
+  },
+  {
+    "id": "environmental-chemistry-group-university-of-sao-paulo-brazil",
+    "name": "Environmental Chemistry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Frenato-sanches-freire",
+    "tags": [
+      "Environmental Chemistry",
+      "Advanced Oxidation",
+      "Catalysis",
+      "Water Treatment",
+      "Pollutant Degradation"
+    ],
+    "description": "Develops catalytic and advanced oxidation processes to degrade persistent pollutants and improve water treatment technologies.",
+    "headOfLab": "Renato Sanches Freire",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Frenato-sanches-freire"
+  },
+  {
+    "id": "laboratorio-de-materiais-eletroativos-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Materiais Eletroativos",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Froberto-manuel-torresi",
+    "tags": [
+      "Electroactive Materials",
+      "Conducting Polymers",
+      "Electrochemistry",
+      "Sensors",
+      "Drug Delivery"
+    ],
+    "description": "Develops electroactive materials, especially intrinsically conducting polymers and nanostructured systems, for sensors, devices, and controlled drug release.",
+    "headOfLab": "Roberto Manuel Torresi",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Froberto-manuel-torresi"
+  },
+  {
+    "id": "bioelectrochemistry-and-interfaces-group-university-of-sao-paulo-brazil",
+    "name": "Bioelectrochemistry and Interfaces Group",
+    "website": "https://lem.iq.usp.br/",
+    "tags": [
+      "Bioelectrochemistry",
+      "Interfaces",
+      "Spectroscopy",
+      "Carbon Nanomaterials",
+      "Bioelectronics"
+    ],
+    "description": "Studies redox biomolecules and solid–liquid interfaces with spectroscopy, electrochemistry, and nanocarbon materials for bioelectronics and bioelectrosynthesis.",
+    "headOfLab": "Rodrigo Michelin Iost",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Frodrigo-michelin-iost"
+  },
+  {
+    "id": "vibrational-spectroscopy-and-gas-absorption-group-university-of-sao-paulo-brazil",
+    "name": "Vibrational Spectroscopy and Gas Absorption Group",
+    "website": "https://lem.iq.usp.br/",
+    "tags": [
+      "Vibrational Spectroscopy",
+      "Raman",
+      "SERS",
+      "Ionic Liquids",
+      "Gas Absorption"
+    ],
+    "description": "Uses Raman, SERS, IR, UV-Vis, NMR, and theory to study intermolecular interactions, ionic liquids, deep eutectic solvents, and pollutant-gas absorption.",
+    "headOfLab": "Rômulo Augusto Ando",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fr%C3%B4mulo-augusto-ando"
+  },
+  {
+    "id": "electroanalytical-chemistry-group-university-of-sao-paulo-brazil",
+    "name": "Electroanalytical Chemistry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fsilvia-helena-pires-serrano",
+    "tags": [
+      "Electroanalysis",
+      "Biosensors",
+      "Chemically Modified Electrodes",
+      "Boron-Doped Diamond",
+      "Analytical Chemistry"
+    ],
+    "description": "Applies electroanalytical techniques, chemically modified electrodes, boron-doped diamond electrodes, sensors, and biosensors to biological and environmental species.",
+    "headOfLab": "Silvia Helena Pires Serrano",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fsilvia-helena-pires-serrano"
+  },
+  {
+    "id": "lacie-laboratorio-de-caracterizacao-de-interfases-eletroquimicas-university-of-s",
+    "name": "LACIE - Laboratório de Caracterização de Interfases Eletroquímicas",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fsilvia-maria-leite-agostinho",
+    "tags": [
+      "Electrochemistry",
+      "Corrosion",
+      "Interfaces",
+      "Materials Characterization",
+      "Education"
+    ],
+    "description": "Characterizes electrochemical interfaces for corrosion control, metallic materials, and electrochemistry education.",
+    "headOfLab": "Silvia Maria Leite Agostinho",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fsilvia-maria-leite-agostinho"
+  },
+  {
+    "id": "laboratorio-de-materiais-eletroativos-university-of-sao-paulo-brazil-2",
+    "name": "Laboratório de Materiais Eletroativos",
+    "website": "https://www.iq.usp.br/rtorresi/index.htm",
+    "tags": [
+      "Conducting Polymers",
+      "Electroactive Materials",
+      "Sensors",
+      "Biosensors",
+      "Nanostructures"
+    ],
+    "description": "Studies intrinsically conducting polymers and nanostructured hybrid systems for sensors, biosensors, electrochromic devices, and controlled drug release.",
+    "headOfLab": "Susana Inés Córdoba de Torresi",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fsusana-in%C3%A9s-c%C3%B3rdoba-de-torresi"
+  },
+  {
+    "id": "reactive-intermediates-mass-spectrometry-group-university-of-sao-paulo-brazil",
+    "name": "Reactive Intermediates Mass Spectrometry Group",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fthiago-carita-correra",
+    "tags": [
+      "Mass Spectrometry",
+      "Ion Mobility",
+      "Polymer Chemistry",
+      "Drug Metabolism",
+      "Reaction Mechanisms"
+    ],
+    "description": "Uses advanced mass spectrometry, ion spectroscopy, and ion mobility to characterize isomeric reaction intermediates in polymers, oxidation chemistry, and drug metabolism.",
+    "headOfLab": "Thiago Carita Correra",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fthiago-carita-correra"
+  },
+  {
+    "id": "paixao-group-electronic-tongue-and-chemical-sensors-lab-university-of-sao-paulo-",
+    "name": "Paixão Group - Electronic Tongue and Chemical Sensors Lab",
+    "website": "https://www.iq.usp.br/trlcp/",
+    "tags": [
+      "Sensors",
+      "Electrochemistry",
+      "Paper-Based Devices",
+      "Electronic Tongues",
+      "Analytical Chemistry"
+    ],
+    "description": "Develops chemical and electrochemical sensors, paper-based analytical devices, and electronic tongues for clinical, environmental, and forensic applications.",
+    "headOfLab": "Thiago Regis Longo César da Paixão",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fthiago-regis-longo-c%C3%A9sar-da-paix%C3%A3o"
+  },
+  {
+    "id": "laboratorio-de-solidos-lamelares-lasol-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Sólidos Lamelares (LaSol)",
+    "website": "https://www.iq.usp.br/vrlconst/?q=pt-br",
+    "tags": [
+      "Layered Solids",
+      "Inorganic Materials",
+      "Materials Chemistry",
+      "Nanostructured Solids"
+    ],
+    "description": "Researches layered solids and related inorganic materials for fundamental and applied materials chemistry.",
+    "headOfLab": "Vera Regina Leopoldo Constantino",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fvera-regina-leopoldo-constantino"
+  },
+  {
+    "id": "research-group-of-vitor-leite-martins-university-of-sao-paulo-brazil",
+    "name": "Research Group of Vitor Leite Martins",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fvitor-leite-martins",
+    "tags": [
+      "Chemistry",
+      "Fundamental Chemistry",
+      "Faculty Profile"
+    ],
+    "description": "USP faculty profile listed in the Department of Fundamental Chemistry roster; dedicated research-group details were not exposed on the public profile page during this compilation pass.",
+    "headOfLab": "Vitor Leite Martins",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fvitor-leite-martins"
+  },
+  {
+    "id": "laboratorio-de-caracterizacao-de-polimeros-university-of-sao-paulo-brazil",
+    "name": "Laboratório de Caracterização de Polímeros",
+    "website": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fyoshio-kawano",
+    "tags": [
+      "Polymer Characterization",
+      "Vibrational Spectroscopy",
+      "Thermal Analysis",
+      "Polymers",
+      "Composites"
+    ],
+    "description": "Characterizes polymeric materials and composites using infrared and Raman spectroscopy together with thermal-analysis techniques such as TG, DSC, and DMA.",
+    "headOfLab": "Yoshio Kawano",
+    "university": "University of São Paulo",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "source": "https://www.iq.usp.br/portaliqusp/?q=pt-br%2Fusers%2Fyoshio-kawano"
+  }
+]

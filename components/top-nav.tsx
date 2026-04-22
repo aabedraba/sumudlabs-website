@@ -19,6 +19,14 @@ export function TopNav() {
             >
               Home
             </Link>
+
+            <Link
+              href="/research-groups"
+              className="text-sm md:text-base font-sans text-foreground/80 hover:text-foreground transition-colors"
+            >
+              Research Groups
+            </Link>
+
             <Link
               href="/news"
               className="text-sm md:text-base font-sans text-foreground/80 hover:text-foreground transition-colors"
